@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+.column {
+    float: left;
+    width: 33%;
+}
+
+#burger {
+    border: 1px solid black;
+}
+
+#new {
+    margin-top: 1%;
+}
